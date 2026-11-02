@@ -1,0 +1,8 @@
+:HL["/kingofjava777-presentation/_next/static/chunks/3z2m0rhc9c3d9.css","style"]
+:HL["/kingofjava777-presentation/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kingofjava777-presentation/_next/static/media/76b70a1dbe058eb5-s.p.1y4-pdgsjb-pw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kingofjava777-presentation/_next/static/media/907e425521e860f7-s.p.27o2sdc0u17j6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kingofjava777-presentation/_next/static/media/94eb104ff4ce45d2-s.p.2to4mwkp-fs37.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kingofjava777-presentation/_next/static/media/9a321a2c78eff0b5-s.p.1bkzbscqrt8rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"UN5E49u_SA5KWtEeHK57O","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
